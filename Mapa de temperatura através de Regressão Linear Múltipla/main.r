@@ -1,0 +1,5 @@
+library(ggplot2)
+library(geobr)
+library(raster)
+library(fields)
+library(ggspatial)
